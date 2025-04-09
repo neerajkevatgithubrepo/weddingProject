@@ -1,0 +1,1 @@
+this project is a wedding studios website,is web app se user apni wedding ke liye camera book kar sakega or wedding hone ke baad apni shadi ki video-album online website pe hi dekh sakega,isliye ham ye kah sakte hai ki ye website studio oveners ko online wedding booking ke liye use kiya ja sakta hai.
